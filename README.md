@@ -24,7 +24,9 @@ Linux | [Videos](https://www.youtube.com/watch?v=v_1zB2WNN14) | 4-6 weeks | 2-5 
 #### Join Our Community For More Resources :- 
 
 [Telegram Channel](https://t.me/joinchat/AAAAAEVqSOwkfrxUWytwXw)
+
 [What's App Group](https://chat.whatsapp.com/Be7CtsGC5ofAvS4IZbJ36z)
+
 [Website](https://arbazkhan4712.github.io/)
 
 ## SHARE & SUPPORT :)
