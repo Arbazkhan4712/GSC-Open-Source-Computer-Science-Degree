@@ -5,8 +5,6 @@
  
  ## I have designed this course for beginners who are new to computer science or who are willing to learn or improve their skills in programming. I have tried to make it as per industry standrand after discussing with my professor's who have perceived their PHD in Computer Science also some of my friends who are working at tech companies like IBM,Microsoft,Alphabet etc.
 
-## Semester II is going to be released after 6 months. If anyone wants to contribute to this they add more resources and make a pull request
-
 
 ## Semester I :-
 
