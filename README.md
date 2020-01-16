@@ -1,12 +1,13 @@
 # [GSC](https://www.youtube.com/channel/UCGYWLvjmBouSwjJIzeNDuzw/) Open Source Computer Science Degree
 
 ## Hey,
-## My name is [ARBAZ KHAN](https://arbazkhan4712.github.io/Contact.html) I have perceived my Diploma in Computer Science and I have more than 5 Year's of experience in Computer Science Field in different domains like Networking , Ethical Hacking , Web Development etc. I'm Currently perceiving bachelor's in Computer Science
- 
- ## I have designed this course for beginners who are new to computer science or who are willing to learn or improve their skills in programming. I have tried to make it as per industry standrand after discussing with my professor's who have perceived their PHD in Computer Science also some of my friends who are working at tech companies like IBM,Microsoft,Alphabet etc.
+## My name is [ARBAZ KHAN](https://arbazkhan4712.github.io/Contact.html) I have perceived my Diploma in Computer Science and I have more than 5 Years of experience in Computer Science Field in different domains like Networking, Ethical Hacking, Web Development, etc. I'm Currently perceiving bachelor's in Computer Science
+
+## I have designed this course for beginners who are new to computer science or who are willing to learn or improve their skills in programming. I have tried to make it as per industry standard after discussing with my professors who have perceived their Ph.D. in Computer Science also some of my friends who are working at tech companies like IBM, Microsoft, Alphabet, etc.
 
 
-## Semester I :-
+
+## Semester I:-
 
 ### Computer Science Basics
 ### Note:- 
@@ -22,9 +23,9 @@ HTML & CSS | [Videos](https://www.youtube.com/watch?v=pQN-pnXPaVg) [Books](https
 Ethical Hacking | [Videos](https://www.youtube.com/watch?v=dz7Ntp7KQGA&t=72s) [Books](https://drive.google.com/drive/u/0/folders/1nmsbAFQqGQenSx2cPBtZZTUWqsXRfVPc) | 4-6 weeks | 2-5 hours/week | 1 Topic a day  | none | [Link](https://www.udemy.com/course/complete-ethical-hacking-course-learn-from-scratch/)
 Linux | [Videos](https://www.youtube.com/watch?v=v_1zB2WNN14) [Books](https://drive.google.com/drive/u/0/folders/1K18PJ9W5reJ0AHZ2EKhCCHjQJ-1-f158) | 4-6 weeks | 2-5 hours/week | 1 Topic a day  | none | [Link](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/)
 
-## Semester II :-
+## Semester II:-
 
-## Domain Sepecific Skills
+## Domain-Specific Skills
 
 # Android/IOS Developer
 ### Note:- 
@@ -103,16 +104,16 @@ kubernetes| [Videos](https://www.youtube.com/watch?v=F-p_7XaEC84) [Books](https:
 1. Ethical hacking
 2. Game Developer
 3. Artificial Intelligence Developer
-4. Network Enginner
-5. Many More....
+4. Network Engineer
+5. Many More...
 
-## If Any Qurey Contact:-
+## If Any Query Contact:-
 
 [Gmail](https://arbazkhan4712.github.io/Contact)
 
 [What's App](https://wa.me/+918788855641)
 
-#### Join Our Community For More Resources :- 
+#### Join Our Community For More Resources:- 
 
 [Telegram Channel](https://t.me/joinchat/AAAAAEVqSOwkfrxUWytwXw)
 
