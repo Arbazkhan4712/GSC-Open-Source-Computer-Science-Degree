@@ -1,7 +1,7 @@
 # [GSC](https://www.youtube.com/channel/UCGYWLvjmBouSwjJIzeNDuzw/) Open Source Computer Science Degree
 
 ## Hey,
-## My name is [ARBAZ KHAN](https://arbazkhan4712.github.io/Contact.html) I have Received my Diploma in Computer Science and I have more than 5 Years of experience in Computer Science Field in different domains like Networking, Ethical Hacking, Web Development, etc. I'm Currently perceiving bachelor's in Computer Science
+## My name is [ARBAZ KHAN](http://arbaazkhan.ml/) I have Received my Diploma in Computer Science and I have more than 5 Years of experience in Computer Science Field in different domains like Networking, Ethical Hacking, Web Development, etc. I'm Currently perceiving bachelor's in Computer Science
 
 ## I have designed this course for beginners who are new to computer science or who are willing to learn or improve their skills in programming. I have tried to make it as per industry standard after discussing with my professors who have perceived their Ph.D. in Computer Science also some of my friends who are working at tech companies like IBM, Microsoft, Alphabet, etc.
 
