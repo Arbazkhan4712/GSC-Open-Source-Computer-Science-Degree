@@ -1,3 +1,6 @@
+ [![GitHub forks](https://img.shields.io/github/forks/arbazkhan4712/GSC-Open-Source-Computer-Science-Degree?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)                 [![GitHub star](https://img.shields.io/github/stars/arbazkhan4712/GSC-Open-Source-Computer-Science-Degree?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
+
+
 # [GSC](https://www.youtube.com/channel/UCGYWLvjmBouSwjJIzeNDuzw/) Open Source Computer Science Degree
 
 ## Hey,
